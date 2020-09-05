@@ -1,4 +1,4 @@
-# DOOM Eternal Modding
+# DOOM Eternal Mod Installation
 
 ## Requirements
 * Modloader: https://tinyurl.com/y6x9jz3p
